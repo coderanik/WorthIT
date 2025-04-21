@@ -25,12 +25,12 @@ This backend service provides functionalities to rate product designs and evalua
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/coderanik/WorthIT.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd <project_directory>
+   cd WorthIt
    ```
 
 3. Install dependencies:
